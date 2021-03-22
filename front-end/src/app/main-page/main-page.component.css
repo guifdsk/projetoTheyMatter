@@ -1,0 +1,56 @@
+.carousel-indicators {
+    position: inherit;
+}
+.btn-comprar{
+    background-color: #00463F;
+}
+.banner-img {
+    width: 100%;
+    min-height: 10em;
+}
+.categoria {
+    width: 150px;
+    height: 150px;
+    transition: 0.2s;
+    border: solid lightgrey 1px;
+    color: black;
+}
+.categoria:hover {
+    color: lightgray;
+}
+.btn-verde{
+    color:white;
+    background-color:#00463F;
+}
+.ctg-img {
+    width: 80px;
+    height: 80px;
+    transition: 0.2s;
+}.img-front {
+    display: none;
+}
+.categoria:hover .img-back {
+    display: none;
+}
+.categoria:hover .img-front {
+    display: block;
+}
+.categoria:hover {
+    background-color: #00463F;
+}
+.img-card{
+    width: 300px;
+    height: 270px;
+}
+.mobile-card-img {
+    transition: 0.5s;
+}
+.mobile-card-img:hover {
+    box-shadow: -2px 1px 35px 1px rgba(159,150,150,0.75);
+    -webkit-box-shadow: -2px 1px 35px 1px rgba(159,150,150,0.75);
+    -moz-box-shadow: -2px 1px 35px 1px rgba(159,150,150,0.75);
+}
+.mobile-card-img:active {
+    background-color: #00463F;
+    color: whitesmoke;
+}

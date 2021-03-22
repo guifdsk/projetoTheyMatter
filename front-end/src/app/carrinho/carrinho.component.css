@@ -1,0 +1,57 @@
+/* tamanho da barra de calcular frete*/
+.tm{
+    padding-inline: 20px;
+    width: 30%;
+    height: 28px;
+}
+/* borda do botao do frete*/
+.br{
+    border-radius: 38px;
+}
+/* tamanho da barra de total*/
+.tmt{
+    width: 38%;
+}
+.cart-icon {
+    font-size: 60pt;
+}
+.cd-banner {
+    width: 50%;
+    height: auto;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.botao{
+
+    transition: 0.2s;
+    top:-4px;
+    box-shadow:0 6px 4px #999;
+    color: white;
+    background: #00463F;
+    border-radius: 15px;
+    padding: 15px;
+    font-size: 16px;
+    
+}
+.btn-verde{
+    color:white;
+    background-color:#00463F;
+}
+.btn-verde:hover {
+    box-shadow: 0 0 10px gray;
+}
+.btn-verde:active {
+    background-color: white;
+}
+.botao:hover{
+    background-color: white;
+    color: black
+    
+}
+.tm1{
+    
+    height: 150px;
+}
