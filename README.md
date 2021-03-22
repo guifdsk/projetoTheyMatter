@@ -11,12 +11,6 @@
 
 
 
-## Version:
-
-```
-<0.3.0 BETA>
-```
-
 ## Installing:
 
 To install They_Matter, follow these steps:
@@ -34,19 +28,21 @@ Run <npm install jquery@latest --save> to install JQuery latest version
 ```
 Run <npm install popper.js --save> to install Popper.js
 ```
+```
+Run <npm -i> to install the dependencies.
+```
 
 ## Using:
 
 To using They_Matter, follow these steps:
 
-```
-Run <npm -i> to install the dependencies.
-```
+Into front-end folder:
 ```
 Run <ng serve> to start server.
 ```
+
 ```
-Open <http://http://localhost:4200/> to view the frontend.
+Open <http://http://localhost:4200/> to view the frontend in browser.
 ```
 
 ## Contributors
@@ -60,7 +56,3 @@ Thanks to the following people who have contributed to this project:
  * [Diego Joaquim da Silva](https://www.linkedin.com/in/diego-silva-061527156/)
  * [Patricia Machado](https://www.linkedin.com/in/patricia-machado-0ba0111ba/)
  * [Erick Alan](https://www.linkedin.com/in/erick-alan-7bb92b1b4/)
-
-## License
-
-This project uses the following license: .
